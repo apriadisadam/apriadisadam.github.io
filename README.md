@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<h1>Welcome to My Personal Page!</h1>
-<p>I am Apriadi Salim Adam. I was born in Ampana, Central Sulawesi of Indonesia.</p>
+<h1>About Me</h1>
+<p>I was born in Ampana, Central Sulawesi of Indonesia.</p>
 
 </body>
 </html>
